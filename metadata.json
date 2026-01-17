@@ -1,0 +1,5 @@
+{
+  "name": "FaceTrace AI",
+  "description": "A React implementation of computer vision face tracking and matching, enhanced with Gemini API for scene analysis.",
+  "requestFramePermissions": []
+}
